@@ -3,6 +3,6 @@ DLI32 and DLI32-2 are two small corpora dedicated to Automatic Language identifi
 
 For more details, I recommand you to read the DLI32.pdf file.
 
-Users who use this corpus should make a reference to the following article:
+This corpus is used to evaluate the proposed algorithms in the following article:
 
 K. Abainia, S. Ouamour and H. Sayoud, "Robust language identification of noisy texts: Proposal of hybrid approaches", International Workshop on Text-based Information Retrieval TIR’14, pp. 228-232.
